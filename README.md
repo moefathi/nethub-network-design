@@ -44,3 +44,6 @@ Another thing I considered was how the network could be improved in the future. 
 - **Type:** Academic Project
 - **Course:** Networking
 - **Semester:** Fall 2024/2025
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
